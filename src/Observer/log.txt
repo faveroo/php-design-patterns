@@ -1,0 +1,2 @@
+2026-07-03 20:20:52: 'users:created' with data '{"attributes":{"name":"John Smith","email":"john99@exmaple.com","id":"2ad0cd450aafaa77ed7de59adb11b040"}}'
+2026-07-03 20:20:52: 'users:deleted' with data '{"attributes":{"name":"John Smith","email":"john99@exmaple.com","id":"2ad0cd450aafaa77ed7de59adb11b040"}}'
