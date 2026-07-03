@@ -1,0 +1,15 @@
+{
+    "name": "gabriel.hoffmann/php-design-patterns",
+    "autoload": {
+        "psr-4": {
+            "Patterns\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "faveroo",
+            "email": "gabriel290974@gmail.com"
+        }
+    ],
+    "require": {}
+}
